@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Lamborghini",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/lamb.png"
+    },
+    {
+        "id": 2,
+        "name": "Mustang",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/mustang.png"
+
+    },
+    {
+        "id": 3,
+        "name": "Shelby",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/10/shelby.png"
+
+    },
+    {
+        "id": 4,
+        "name": "Vauxhall",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/vauxhall.png"
+    },
+    {
+        "id": 5,
+        "name": "Spyker",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/spyker.png"
+
+    },
+    {
+        "id": 6,
+        "name": "Porsche",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/porsche.png"
+
+    },
+    {
+        "id": 7,
+        "name": "Lancia",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/lancia.png"
+
+    },
+    {
+        "id": 8,
+        "name": "SSC",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/10/ssc.png"
+
+    },
+    {
+        "id": 9,
+        "name": "Morgan",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/morgan.png"
+
+    },
+    {
+        "id": 10,
+        "name": "Bentley",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/bentley.png"
+
+    },
+    {
+        "id": 11,
+        "name": "Arrienera",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/10/arrinera-logo.png"
+
+    },
+    {
+        "id": 12,
+        "name": "Cadillac",
+        "clicked": false,
+        "image": "https://www.car-logos.org/wp-content/uploads/2011/09/cadillac.png"
+
+    }
+]
