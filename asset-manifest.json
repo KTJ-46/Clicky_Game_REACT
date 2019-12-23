@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Clicky_Game_REACT/static/css/main.6a934dfc.chunk.css",
-    "main.js": "/Clicky_Game_REACT/static/js/main.b2750db6.chunk.js",
-    "main.js.map": "/Clicky_Game_REACT/static/js/main.b2750db6.chunk.js.map",
+    "main.css": "/Clicky_Game_REACT/static/css/main.cb91fcd8.chunk.css",
+    "main.js": "/Clicky_Game_REACT/static/js/main.9ff5df1f.chunk.js",
+    "main.js.map": "/Clicky_Game_REACT/static/js/main.9ff5df1f.chunk.js.map",
     "runtime-main.js": "/Clicky_Game_REACT/static/js/runtime-main.5a648104.js",
     "runtime-main.js.map": "/Clicky_Game_REACT/static/js/runtime-main.5a648104.js.map",
-    "static/js/2.ac030abd.chunk.js": "/Clicky_Game_REACT/static/js/2.ac030abd.chunk.js",
-    "static/js/2.ac030abd.chunk.js.map": "/Clicky_Game_REACT/static/js/2.ac030abd.chunk.js.map",
+    "static/js/2.a444934d.chunk.js": "/Clicky_Game_REACT/static/js/2.a444934d.chunk.js",
+    "static/js/2.a444934d.chunk.js.map": "/Clicky_Game_REACT/static/js/2.a444934d.chunk.js.map",
     "index.html": "/Clicky_Game_REACT/index.html",
-    "precache-manifest.e2b268ab579d09bcff2a49b395f7f983.js": "/Clicky_Game_REACT/precache-manifest.e2b268ab579d09bcff2a49b395f7f983.js",
+    "precache-manifest.d6d32b72e2850c241fab816eca67f3c5.js": "/Clicky_Game_REACT/precache-manifest.d6d32b72e2850c241fab816eca67f3c5.js",
     "service-worker.js": "/Clicky_Game_REACT/service-worker.js",
-    "static/css/main.6a934dfc.chunk.css.map": "/Clicky_Game_REACT/static/css/main.6a934dfc.chunk.css.map",
-    "static/js/2.ac030abd.chunk.js.LICENSE": "/Clicky_Game_REACT/static/js/2.ac030abd.chunk.js.LICENSE"
+    "static/css/main.cb91fcd8.chunk.css.map": "/Clicky_Game_REACT/static/css/main.cb91fcd8.chunk.css.map",
+    "static/js/2.a444934d.chunk.js.LICENSE": "/Clicky_Game_REACT/static/js/2.a444934d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.5a648104.js",
-    "static/js/2.ac030abd.chunk.js",
-    "static/css/main.6a934dfc.chunk.css",
-    "static/js/main.b2750db6.chunk.js"
+    "static/js/2.a444934d.chunk.js",
+    "static/css/main.cb91fcd8.chunk.css",
+    "static/js/main.9ff5df1f.chunk.js"
   ]
 }
